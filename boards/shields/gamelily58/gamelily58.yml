@@ -1,0 +1,13 @@
+file_format: "1"
+id: lily58
+name: GameLily58
+type: shield
+url: https://github.com/Luiderd/zmklily02
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - studio
+siblings:
+  - gamelily58_left
+  - gamelily58_right
