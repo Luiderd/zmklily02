@@ -9,6 +9,8 @@
 # shield: [ "corne_left", "corne_right" ]
 # include:
 
+---
+
 include:
   - board: nice_nano_v2
     shield: gamelily58_left
