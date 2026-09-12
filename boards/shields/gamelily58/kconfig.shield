@@ -1,0 +1,8 @@
+# Copyright (c) 2020 Pete Johanson
+# SPDX-License-Identifier: MIT
+
+config SHIELD_GAMELILY58_LEFT
+    def_bool $(shields_list_contains,gamelily58_left)
+
+config SHIELD_GAMELILY58_RIGHT
+    def_bool $(shields_list_contains,gamelily58_right)
